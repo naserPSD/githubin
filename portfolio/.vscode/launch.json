@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "personal-portfolio",
+            "cwd": "personal-portfolio",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "personal-portfolio (profile mode)",
+            "cwd": "personal-portfolio",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "personal-portfolio (release mode)",
+            "cwd": "personal-portfolio",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
